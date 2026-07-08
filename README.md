@@ -4,7 +4,7 @@
 
 Status: Draft v0.1
 
-ZK-AEP is a protocol specification for privacy-preserving athletic eligibility verification.
+ZK-AEP is a protocol specification for privacy-preserving athletic eligibility verification without exposing identity.
 
 ## Planned Documents
 
