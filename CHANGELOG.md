@@ -19,6 +19,13 @@ Initial Draft v0.1 standards package.
 - Added long-term research direction for future privacy-preserving physiological verification.
 - Added development roadmap.
 - Added conformance framing.
+- Added `.gitignore`.
+
+### Refined
+
+- Shortened README into a clearer repository landing page.
+- Moved detailed protocol language into `SPECIFICATION.md` and numbered standards documents.
+- Clarified that ZK-AEP minimizes disclosure rather than guaranteeing anonymity in every implementation.
 
 ### Removed / Excluded
 
