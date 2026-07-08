@@ -178,6 +178,20 @@ The immediate goal is to define the standard clearly enough that future implemen
 
 ---
 
+## Disclaimer
+
+**ZK-AEP is an evolving technical standard.**
+
+This repository contains **Draft v0.1** of the Zero-Knowledge Athletic Eligibility Protocol and is provided for research, discussion, review, and implementation experimentation.
+
+ZK-AEP is a protocol specification. It is **not** a production system, legal opinion, medical guidance, regulatory framework, or eligibility policy.
+
+Nothing in this repository should be interpreted as determining whether any eligibility rule is lawful, fair, ethical, medically appropriate, or defensible. Those determinations remain the responsibility of the applicable governing authority and should be supported by appropriate legal, medical, privacy, security, and governance review.
+
+Implementers are responsible for independently evaluating all applicable legal, regulatory, security, privacy, operational, and ethical requirements before deploying any implementation derived from this specification.
+
+---
+
 ## License
 
 License to be determined.
